@@ -1,12 +1,5 @@
 
-// -encode rabbit2.bmp -with follow.png -into output.bmp
-// -decode output.bmp -into output2.png
 
-
-// Well done, 
-// but not yet won,
-// there's a secret for you,
-// the number is 222...
 
 #include <windows.h>
 #include <stdio.h>
