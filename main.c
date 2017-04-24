@@ -52,12 +52,8 @@ int __cdecl _tmain(int argc, TCHAR *argv[])
 	int argi;
 	TCHAR * parg;
 	DWORD dwAction;
-
-
 	
 	ZeroMemory(&lsb, sizeof(LSB));
-	//DebugBreak();
-	//lsb.pvInput=(void*) __readgsqword(0x60);
 
 	if(argc < 3)
 	{
